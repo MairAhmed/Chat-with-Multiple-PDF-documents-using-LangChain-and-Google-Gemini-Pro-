@@ -18,7 +18,7 @@ Clone the repository first and then intall the requirements.txt file
 pip install -r requirements.txt
 
 
-#Usage
+# Usage
 Set up your environment variables:
 
 Ensure you have access to Google Gemini Pro API and update your .env file with the appropriate API keys.
