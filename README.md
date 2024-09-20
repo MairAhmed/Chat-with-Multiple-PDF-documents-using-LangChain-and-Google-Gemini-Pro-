@@ -15,7 +15,7 @@ Real-Time Interaction: Provides a seamless chat interface to interact with docum
 To run the application, first install the required dependencies.
 Clone the repository first and then intall the requirements.txt file 
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 # Usage
@@ -24,21 +24,21 @@ Set up your environment variables:
 Ensure you have access to Google Gemini Pro API and update your .env file with the appropriate API keys.
 Run the application:
 
-streamlit run app.py
+     streamlit run app.py
 
 Upload your PDF documents through the interface, and start querying them using the provided chat interface.
 
 # Requirements
 The project requires the following packages:
 
-Streamlit
-Google Generative AI
-Python Dotenv
-Langchain
-PyPDF2
-ChromaDB
-FAISS-CPU
-Langchain Google GenAI
+     Streamlit
+     Google Generative AI
+     Python Dotenv
+     Langchain
+     PyPDF2
+     ChromaDB
+     FAISS-CPU
+     Langchain Google GenAI
 
 # How It Works
 
